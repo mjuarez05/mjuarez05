@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hola, soy Maximiliano Juarez
 
-<!--
-**mjuarez05/mjuarez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Bienvenido a mi perfil de GitHub.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un **freelance web developer** con **2 años de experiencia** como freelance y **16 años de experiencia** en el rubro de la informática. Me apasiona el desarrollo web y estoy siempre en busca de nuevos desafíos y oportunidades para mejorar mis habilidades.
+
+## Tecnologías que utilizo
+
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind, Astro
+- **Backend:** Node.js
+- **Bases de datos:** PostgreSQL, MongoDB
+- **DevOps:** Docker
+
+## Experiencia
+
+- **2 años** como freelance web developer.
+- **16 años** de experiencia en el rubro de la informática, abarcando diversos roles y tecnologías.
+
+## Proyectos destacados
+
+- [Nombre del Proyecto 1](enlace al repositorio) - Breve descripción del proyecto.
+- [Nombre del Proyecto 2](enlace al repositorio) - Breve descripción del proyecto.
+
+## Habilidades
+
+- Desarrollo web con tecnologías modernas.
+- Creación de aplicaciones escalables con React y Node.js.
+- Implementación y gestión de bases de datos relacionales y no relacionales.
+- Contenerización de aplicaciones con Docker.
+
+## Contacto
+- 🌐 **Porfolio:** [maxijuarezdev.com](https://maxijuarezdev.com)
+- 📫 **Correo electrónico:** [maximiliano.juarez05@gmail.com](mailto:maximiliano.juarez05@gmail.com)
+- 🌐 **LinkedIn:** [Maximiliano Juarez](https://www.linkedin.com/in/maximiliano-ju%C3%A1rez-34769876/)
+
