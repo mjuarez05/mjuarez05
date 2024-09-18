@@ -18,11 +18,6 @@ Soy un **freelance web developer** con **2 años de experiencia** como freelance
 - **2 años** como freelance web developer.
 - **16 años** de experiencia en el rubro de la informática, abarcando diversos roles y tecnologías.
 
-## Proyectos destacados
-
-- [Nombre del Proyecto 1](enlace al repositorio) - Breve descripción del proyecto.
-- [Nombre del Proyecto 2](enlace al repositorio) - Breve descripción del proyecto.
-
 ## Habilidades
 
 - Desarrollo web con tecnologías modernas.
